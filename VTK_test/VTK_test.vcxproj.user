@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LocalDebuggerCommandArguments>E:\\myStudySpace\\vtk\\examples\\resource\\STL\\vtkOutput.stl E:\\myStudySpace\\vtk\\examples\\resource\\STL\\ear.stl union E:\\myStudySpace\\vtk\\examples\\resource\\STL\\太极.stl </LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+</Project>
